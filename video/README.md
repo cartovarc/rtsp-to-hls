@@ -1,0 +1,1 @@
+## Here will be all .ts and .m3u8 files
